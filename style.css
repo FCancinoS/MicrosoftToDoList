@@ -17,7 +17,7 @@ body{
     margin-top: 20px;
     border: 1px white solid;
     border-radius: 5px;
-    width: 55%;
+    width: 80%;
     padding: 1%;
     bottom: 0;
 }
@@ -28,7 +28,7 @@ li{
     border: 1px rgb(143, 141, 141) solid;
     border-radius: 5px;
     list-style-type: none;
-    width: 70%;
+    width: 90%;
     height: 20%;
     display:flex;
     margin-top: 10px;
@@ -37,7 +37,7 @@ li{
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: champagne;
-    font-size: 25px;
+    font-size: 17px;
     color: white;
 }
 #entrada{
@@ -48,7 +48,7 @@ li{
     width: 50%;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-size: 25px;
+    font-size: 17px;
 }
 /*boton de añadir*/
 #firstbutton{
